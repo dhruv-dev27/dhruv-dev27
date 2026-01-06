@@ -43,7 +43,9 @@ export const About = ({ isDarkMode }) => {
 
                         {/* Description */}
                         <p className={`text-base font-normal leading-relaxed max-w-lg mb-8 ${isDarkMode ? 'text-gray-300' : 'text-black'}`} style={{ fontFamily: 'Poppins' }}>
-                            I’m a Fullstack Developer with a Master’s from GTU, dedicated to bringing your vision to life. With deep experience in both design and development, I build solutions that are as functional as they are beautiful. From complex web apps to modern, minimalistic branding, I focus on the details that make your project stand out and truly resonate with your audience.
+                            Hey! Thanks for stopping by. I’m a Fullstack Developer who loves working with Jamstack, Next.js, React, Node.js, Tailwind, Headless CMS, and more. I’m always curious about the latest tech and enjoy sharing what I learn.
+                            <br /><br />
+                            I specialize in building end-to-end web solutions—from robust <strong>backend architectures</strong> to dynamic <strong>frontend interfaces</strong>. My goal is to deliver scalable, high-performance applications that not only solve real-world problems but also provide a seamless experience for your users.
                         </p>
 
                         {/* SKILLS Header */}
